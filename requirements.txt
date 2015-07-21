@@ -1,0 +1,3 @@
+leonardo-admin>=2015.7.0
+bootstrap_admin>=0.3.6
+bootstrap_admin_feincms>=0.0.4
